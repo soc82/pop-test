@@ -1,3 +1,13 @@
+# Dev Response - Sinead
+
+``` npm i
+npm run start ```
+
+depending on react version and set up, may need to run 
+
+``` npm install react-random-image --save --force ```
+
+
 # development-test
 
 Instructions:
